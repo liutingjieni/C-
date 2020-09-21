@@ -17,5 +17,6 @@ enum string{
 
 int main()
 {
-    printf("%s\n", x3);
+    double a = x1;
+    printf("%f %d\n",a,  x1);
 }

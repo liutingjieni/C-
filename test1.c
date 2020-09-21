@@ -11,6 +11,7 @@
 int main()
 {
     int a = 1;
+    int *p = &a;
     printf("%p\n", &a);
     return 0;
 }
